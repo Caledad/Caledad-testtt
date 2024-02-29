@@ -1,0 +1,18 @@
+.SCHEDULE {
+  height: 39px;
+  position: relative;
+  width: 158px;
+}
+
+.SCHEDULE .text-wrapper {
+  color: var(--black-1);
+  font-family: "Racing Sans One", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 158px;
+}
